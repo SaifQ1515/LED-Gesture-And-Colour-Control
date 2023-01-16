@@ -1,8 +1,8 @@
 /*
 This is code for LED Gesure and Colour Control
+ * Created by Saif Qadri
  * Uses and I2C dysplay
  * Sparkfun APDS-9 Gesture and Colour Sensor
- * Created by Saif Qadri
  */
  
 #include <FastLED.h> // LED libraries
